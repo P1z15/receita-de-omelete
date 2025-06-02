@@ -139,8 +139,8 @@ td{
     color: #854632;
 }
 
-tr + tr th, 
-tr + tr td{
+tr th, 
+tr td{
    padding-block: 12px;
 }
 
